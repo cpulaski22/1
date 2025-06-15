@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>About Coltivare - Our Story</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f9f5ee;
+            color: #333;
+        }
+        h1 {
+            font-size: 36px;
+            color: #4b8b3b;
+        }
+        h2 {
+            font-size: 24px;
+            color: #7a3b3b;
+        }
+        p {
+            font-size: 16px;
+            font-family: Arial, sans-serif;
+        }
+        a {
+            color: #0066cc;
+        }
+        .highlight {
+            font-weight: bold;
+            font-style: italic;
+            text-decoration: underline;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 12px;
+            font-family: Courier New, monospace;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to Coltivare</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Farm_landscape.jpg/640px-Farm_landscape.jpg" alt="Coltivare Farm" width="600">
+
+    <p><span class="highlight">Coltivare</span> was founded in 1998 by a small group of passionate agriculturalists in the heart of the Midwest.</p>
+
+    <p>With <b>deep roots</b> in sustainable farming and a vision to modernize the agricultural industry, our company has grown from a humble seed to a full-fledged enterprise offering <i>products and services tailored to farmers worldwide</i>.</p>
+
+    <p>Over the last two decades, we have embraced innovation, fostered community partnerships, and <u>championed responsible land stewardship</u>.</p>
+
+    <h2>Our Journey</h2>
+    <ol>
+        <li><b>1998:</b> Founded in Indiana by five farmers.</li>
+        <li><b>2005:</b> Expanded into seed distribution and soil testing services.</li>
+        <li><b>2015:</b> Launched digital agriculture tools for precision farming.</li>
+        <li><b>2022:</b> Opened our international division serving South America.</li>
+    </ol>
+
+    <h2>Our Core Values</h2>
+    <ul>
+        <li><i>Innovation in agriculture</i></li>
+        <li><i>Environmental sustainability</i></li>
+        <li><i>Supporting local farmers and communities</i></li>
+    </ul>
+
+    <p>Visit our partners at <a href="https://www.nass.usda.gov/" target="_blank">USDA National Agricultural Statistics Service</a> for more on farming trends.</p>
+
+    <p><a href="coltivare@farm.com">Contact me</a> with any questions or feedback.</p>
+
+    <p><a href="Coltivare_Company_Brochure.pdf" download>Download our company brochure (PDF)</a></p>
+
+    <div class="footer">
+        <script>
+            document.write("Last modified: " + document.lastModified);
+        </script>
+    </div>
+
+</body>
+</html>
